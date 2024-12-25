@@ -1,0 +1,8 @@
+:root{
+    --size-0:19.2px;
+    --size-1:calc(var(--size-0) / 32);
+    --show-0:block;
+    --show-1:none;
+    --show-2:block;
+    --show-3:none;
+}

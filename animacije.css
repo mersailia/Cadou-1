@@ -1,0 +1,80 @@
+@keyframes flash-1{
+    0%,100%{
+        background:rgba(0,247,165,1);
+        box-shadow:0px 4.6666666667px 24px 3px rgba(0,247,165,1);
+    }50%{
+        background:rgba(0,247,165,0.4);
+        box-shadow:0px 4.6666666667px 24px 3px rgba(0,247,165,0.2);
+    }
+}
+@keyframes flash-2{
+    0%,100%{
+        background:rgba(0,255,255,1);
+        box-shadow:0px 4.6666666667px 24px 3px rgba(0,255,255,1);
+    }50%{
+        background:rgba(0,255,255,0.4);
+        box-shadow:0px 4.6666666667px 24px 3px rgba(0,255,255,0.2);
+    }
+}
+@keyframes flash-3{
+    0%,100%{
+        background:rgba(247,0,148,1);
+        box-shadow:0px 4.6666666667px 24px 3px rgba(247,0,148,1);
+    }50%{
+        background:rgba(247,0,148,0.4);
+        box-shadow:0px 4.6666666667px 24px 3px rgba(247,0,148,0.2);
+    }
+}
+@keyframes flash-4{
+    to{
+        opacity:1;
+    }
+}
+@keyframes flash-5{
+    to{
+        opacity:.85;
+    }
+}
+@keyframes color-1{
+    to{
+        filter:drop-shadow(0 0 50px gold) hue-rotate(360deg);
+    }
+}
+@keyframes snow-1{
+    100%{
+        top:100%;
+    }
+}
+@keyframes wind-1{
+    50%{
+        transform:translateX(120px);
+    }
+}
+@keyframes shake-1{
+    to{
+        transform:translate(.2%,-.2%);
+    }
+}
+@keyframes star-1{
+    15%,85%{
+        left:-25%;
+        top:-25%;
+        opacity:.9;
+        transform:rotate(45deg);
+    }45%{
+        left:35%;
+        top:20%;
+        opacity:.6;
+        transform:rotate(67.5deg);
+    }70%{
+        left:70%;
+        top:50%;
+        opacity:0;
+        transform:rotate(90deg);
+    }85%{
+        left:-25%;
+        top:-25%;
+        opacity:0;
+        transform:rotate(90deg);
+    }
+}

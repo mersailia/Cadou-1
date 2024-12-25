@@ -1,0 +1,22 @@
+colinde=[
+    "Să vă aducă Moș Crăciun în tolba plină de fericire, sănătate și multe bucurii!",
+    "Crăciun fericit!<br/>Să vă însoțească magia sărbătorilor în fiecare zi a noului an!",
+    "Să vă umple luminile bradului de speranță și inimile de dragoste.<br/>Crăciun magic!",
+    "Sub steaua de Crăciun, să vă găsiți pacea și căldura sufletească pe care o meritați!",
+    "Fie ca acest Crăciun să vă aducă în casă bucuria, sănătatea și prosperitatea!",
+    "Crăciun luminos!<br/>Să vă fie casa plină de râsete, inima de dragoste și viața de împliniri!",
+    "Să vă fie Crăciunul un prilej de reîntâlnire cu cei dragi și de creare a amintirilor frumoase!",
+    "Moș Crăciun să vă umple șosetele cu surprize minunate și inima cu bucurii nesfârșite!",
+    "În această seară magică, să vă fie casa încălzită de dragoste și luminată de fericire!",
+    "Să vă aducă clopoțeii Crăciunului muzica bucuriei și a speranței în suflet!",
+    "Fie ca magia Crăciunului să vă îndrume pașii spre un An Nou plin de realizări!",
+    "În această noapte sfântă, să vă fie inima împodobită cu dragoste și speranță!",
+    "Crăciun fericit!<br/>Să vă fie zilele luminate de bucurie și noaptea plină de visuri frumoase!",
+    "Să vă fie sufletul plin de căldura Crăciunului și casa plină de armonie și pace!",
+    "Fie ca fiecare fulg de nea să vă aducă un strop de fericire și o rază de speranță!",
+    "Crăciun binecuvântat!<br/>Să vă fie viața un colind de bucurie și inima un țar de iubire!",
+    "Să vă fie Crăciunul un prilej de a vă bucura de fiecare clipă alături de cei dragi!",
+    "Fie ca lumina sfântă de Crăciun să vă călăuzească pașii spre un viitor strălucit!",
+    "În această noapte de vis, să vă fie sufletul plin de speranțe și casa de armonie!",
+    "Crăciun magic și un An Nou plin de împliniri!<br/>Să vă fie fiecare zi o sărbătoare a inimii!"
+];
