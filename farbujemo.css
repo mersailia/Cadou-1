@@ -14,6 +14,19 @@ body{
     height:100%;
     display:var(--show-0);
     background:linear-gradient(to right,#f00 0 30%,#fff 30% 70%,#f00 70% 100%) no-repeat center / cover;
+    & #msg{
+        width:230px;
+        height:144px;
+        padding:10px;
+        text-align:center;
+        background:url(rama-0.png) orangered no-repeat center / cover;
+        position:absolute;
+        left:calc(50% - 115px);
+        top:30%;
+        opacity:0;
+        border-radius:15px;
+        animation:flash-6 10s linear infinite;
+    }
     & #nasturi{
         width:10vw;
         height:10vw;
