@@ -35,6 +35,11 @@
         opacity:.85;
     }
 }
+@keyframes flash-6{
+    60%,100%{
+        opacity:.9;
+    }
+}
 @keyframes color-1{
     to{
         filter:drop-shadow(0 0 50px gold) hue-rotate(360deg);
